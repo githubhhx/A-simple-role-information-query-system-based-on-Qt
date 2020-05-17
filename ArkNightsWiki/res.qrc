@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ArkImage/ad.png</file>
+        <file>ArkImage/adafrican.png</file>
+        <file>ArkImage/amilv.png</file>
+        <file>ArkImage/Angelina.png</file>
+        <file>ArkImage/background.jpg</file>
+        <file>ArkImage/background2.png</file>
+        <file>ArkImage/Bluepoison.png</file>
+        <file>ArkImage/border.jpg</file>
+        <file>ArkImage/Castle.png</file>
+        <file>ArkImage/Courier.png</file>
+        <file>ArkImage/crew.png</file>
+        <file>ArkImage/crew_un.png</file>
+        <file>ArkImage/dialog.png</file>
+        <file>ArkImage/Medcar.png</file>
+        <file>ArkImage/PRTS.png</file>
+        <file>ArkImage/Ptilopsis.png</file>
+        <file>ArkImage/Saria.png</file>
+        <file>ArkImage/Silverash.png</file>
+        <file>ArkImage/Spector.png</file>
+        <file>ArkImage/loggingprof.jpg</file>
+        <file>ArkImage/logging.jpg</file>
+    </qresource>
+</RCC>
