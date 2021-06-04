@@ -14,7 +14,7 @@ Qt
 	
 |Author|ConneR|
 |---|---
-|E-mail|coscrispr@outlook.com
+|E-mail|crisprhhx@outlook.com
 
 
 > Tip:
